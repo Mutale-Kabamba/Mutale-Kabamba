@@ -56,8 +56,10 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
 
 ### Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/your_username/)
-- [Twitter](https://twitter.com/your_username)
+
+- [Facebook](https://www.facebook.com/profile.php?id=100091858476672&mibextid=ZbWKwL)
+- [X](https://x.com/mutale_kabamba?t=uYeou1LFjHg33Dd33TXXsQ&s=09)
+- [Whatsapp](https://wa.me/qr/PVOTMH7SR5JHI1)
 - [Email](mailto:thinker.net01@gmail.com)
 
 ### Fun Facts
