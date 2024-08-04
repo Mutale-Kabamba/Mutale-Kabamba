@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Header Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=crop&w=1200&h=300&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1)
+![Header Image](https://github.com/Mutale-Kabamba/thinke.r/blob/main/git2.jpg)
 
 ## Hi there! 👋
 
