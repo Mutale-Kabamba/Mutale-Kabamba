@@ -31,7 +31,7 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
 #### Design Software Proficiency
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://github.com/Mutale-Kabamba/thinke.r/blob/main/Adobe_Illustrator_CC_icon.svg"/>
   <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="InDesign"/>
   <img src="https://img.shields.io/badge/CorelDRAW-009639?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
