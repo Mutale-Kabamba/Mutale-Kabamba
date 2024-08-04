@@ -57,7 +57,7 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
 ### Get in Touch
 
 
-<p align="center">
+<p>
   <a href="https://www.facebook.com/profile.php?id=100091858476672&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
