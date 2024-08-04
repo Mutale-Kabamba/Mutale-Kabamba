@@ -57,10 +57,20 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
 ### Get in Touch
 
 
-- [Facebook](https://www.facebook.com/profile.php?id=100091858476672&mibextid=ZbWKwL)
-- [X](https://x.com/mutale_kabamba?t=uYeou1LFjHg33Dd33TXXsQ&s=09)
-- [Whatsapp](https://wa.me/qr/PVOTMH7SR5JHI1)
-- [Email](mailto:thinker.net01@gmail.com)
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100091858476672&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://x.com/mutale_kabamba?t=uYeou1LFjHg33Dd33TXXsQ&s=09">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://wa.me/qr/PVOTMH7SR5JHI1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:thinker.net01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ### Fun Facts
 
