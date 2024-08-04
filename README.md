@@ -72,4 +72,4 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
-![Footer Image](https://images.unsplash.com/photo-1522199710521-72d69614c702?crop=entropy&cs=tinysrgb&fit=crop&w=1200&h=300&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1)
+![Footer Image](https://github.com/Mutale-Kabamba/thinke.r/blob/main/git2.jpg)
